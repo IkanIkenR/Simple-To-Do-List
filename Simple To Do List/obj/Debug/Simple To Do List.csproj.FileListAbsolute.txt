@@ -1,0 +1,10 @@
+C:\Users\ikani\source\repos\Simple To Do List\Simple To Do List\bin\Debug\Simple To Do List.exe.config
+C:\Users\ikani\source\repos\Simple To Do List\Simple To Do List\bin\Debug\Simple To Do List.exe
+C:\Users\ikani\source\repos\Simple To Do List\Simple To Do List\bin\Debug\Simple To Do List.pdb
+C:\Users\ikani\source\repos\Simple To Do List\Simple To Do List\obj\Debug\Simple To Do List.csproj.AssemblyReference.cache
+C:\Users\ikani\source\repos\Simple To Do List\Simple To Do List\obj\Debug\Simple_To_Do_List.Form1.resources
+C:\Users\ikani\source\repos\Simple To Do List\Simple To Do List\obj\Debug\Simple_To_Do_List.Properties.Resources.resources
+C:\Users\ikani\source\repos\Simple To Do List\Simple To Do List\obj\Debug\Simple To Do List.csproj.GenerateResource.cache
+C:\Users\ikani\source\repos\Simple To Do List\Simple To Do List\obj\Debug\Simple To Do List.csproj.CoreCompileInputs.cache
+C:\Users\ikani\source\repos\Simple To Do List\Simple To Do List\obj\Debug\Simple To Do List.exe
+C:\Users\ikani\source\repos\Simple To Do List\Simple To Do List\obj\Debug\Simple To Do List.pdb
